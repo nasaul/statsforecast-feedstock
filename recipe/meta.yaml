@@ -1,6 +1,6 @@
 {% set name = "statsforecast" %}
 {% set version = "2.0.0" %}
-{% set build = 0 %}
+{% set build = 1 %}
 
 package:
   name: {{ name|lower }}
@@ -28,10 +28,9 @@ requirements:
     - setuptools
   run:
     - python
-    - antlr4-python3-runtime >=4.11.1,<4.12
     - cloudpickle
     - coreforecast >=0.0.12
-    - fugue >=0.8.1
+    - fugue >=0.9.0
     - matplotlib-base
     - numba >=0.55.0
     - numpy >=1.21.6
