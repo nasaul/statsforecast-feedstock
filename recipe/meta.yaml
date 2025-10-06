@@ -59,12 +59,12 @@ about:
     models, including exponential smoothing and automatic `ARIMA` modeling optimized for
     high performance using `numba`.
 
-    - [Getting started](https://github.com/Nixtla/statsforecast/tree/main/#-getting-started-)
-    - [Installation](https://github.com/Nixtla/statsforecast/tree/main/#-installation)
+    - [Getting started](https://nixtlaverse.nixtla.io/statsforecast/docs/getting-started/getting_started_short.html)
+    - [Installation](https://nixtlaverse.nixtla.io/statsforecast/docs/getting-started/installation.html)
 
     PyPI: [https://pypi.org/project/statsforecast/](https://pypi.org/project/statsforecast/)
 
-  doc_url: https://nixtla.github.io/statsforecast/
+  doc_url: https://nixtlaverse.nixtla.io/statsforecast/index.html
   dev_url: https://github.com/Nixtla/statsforecast/
 
 extra:
