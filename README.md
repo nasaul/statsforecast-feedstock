@@ -342,6 +342,7 @@ Feedstock Maintainers
 * [@MMenchero](https://github.com/MMenchero/)
 * [@cchallu](https://github.com/cchallu/)
 * [@elephaint](https://github.com/elephaint/)
+* [@goodwanghan](https://github.com/goodwanghan/)
 * [@jmoralez](https://github.com/jmoralez/)
 * [@marcopeix](https://github.com/marcopeix/)
 * [@mergenthaler](https://github.com/mergenthaler/)
